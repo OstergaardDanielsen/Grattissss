@@ -81,7 +81,7 @@ nav > h1 {
 .trompetensemble {
     display: flex;
     flex-direction: column;
-    background-image: url("Resources/Gold_block.webp");
+    background-image: url("Gold_block.webp");
     background-size: cover;
     background-repeat: no-repeat; /* Prevents the image from repeating */
     width: 100%; /* Adjust the width of the element */
